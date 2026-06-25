@@ -4,10 +4,7 @@ Welcome to the world's okayest Fitbit-to-research-data pipeline: a collection of
 ## Background
 
 Built to migrate an existing Fitbit Web API study pipeline to the Google Health
-API ahead of the September 2026 deprecation. The Google Health API is new and
-sparsely documented; much of the per-type behavior here (filter fields,
-pagination, which types are deletable) was determined by direct probing against a
-real account and is captured in the retrieval script's structure.
+API ahead of the September 2026 deprecation. 
 
 --
 
