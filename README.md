@@ -119,7 +119,7 @@ Set `PYTHON=` inside `run_daily.sh` to the output of `which python3`.
 
 ---
 
-## Operating notes (the stuff that silently breaks)
+## Operating notes 
 
 - **Read the report every morning.** The system's whole value is catching when a
   participant stops wearing the device. A *missing* report in `daily_reports/`
