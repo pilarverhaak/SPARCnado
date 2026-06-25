@@ -6,7 +6,6 @@ Welcome to the world's okayest Fitbit-to-research-data pipeline: a collection of
 Built to migrate an existing Fitbit Web API study pipeline to the Google Health
 API ahead of the September 2026 deprecation. 
 
---
 
 ## What it collects
 
